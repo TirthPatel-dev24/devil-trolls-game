@@ -19,7 +19,7 @@ jobs:
         dotnet-version: 8.0.x
 
     - name: Restore dependencies
-      run: dotnet restore game/game.csproj
+      run: dotnet restore game/game/game.csproj
 
     - name: Build the app
       run: dotnet build game/game/game.csproj --no-restore
