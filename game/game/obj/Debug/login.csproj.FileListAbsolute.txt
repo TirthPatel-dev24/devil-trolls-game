@@ -1,0 +1,24 @@
+C:\Users\Administrator\source\repos\login\bin\Debug\login.exe.config
+C:\Users\Administrator\source\repos\login\bin\Debug\login.exe
+C:\Users\Administrator\source\repos\login\bin\Debug\login.pdb
+C:\Users\Administrator\source\repos\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\login\obj\Debug\login.Form1.resources
+C:\Users\Administrator\source\repos\login\obj\Debug\login.Form2.resources
+C:\Users\Administrator\source\repos\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\Administrator\source\repos\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\login\obj\Debug\login.exe
+C:\Users\Administrator\source\repos\login\obj\Debug\login.pdb
+C:\Users\Administrator\source\repos\login\obj\Debug\login.Form3.resources
+D:\Visual Studio\Programs\game\login\bin\Debug\login.exe.config
+D:\Visual Studio\Programs\game\login\bin\Debug\login.exe
+D:\Visual Studio\Programs\game\login\bin\Debug\login.pdb
+D:\Visual Studio\Programs\game\login\obj\Debug\login.csproj.AssemblyReference.cache
+D:\Visual Studio\Programs\game\login\obj\Debug\login.Form1.resources
+D:\Visual Studio\Programs\game\login\obj\Debug\login.Form2.resources
+D:\Visual Studio\Programs\game\login\obj\Debug\login.Form3.resources
+D:\Visual Studio\Programs\game\login\obj\Debug\login.Properties.Resources.resources
+D:\Visual Studio\Programs\game\login\obj\Debug\login.csproj.GenerateResource.cache
+D:\Visual Studio\Programs\game\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Programs\game\login\obj\Debug\login.exe
+D:\Visual Studio\Programs\game\login\obj\Debug\login.pdb

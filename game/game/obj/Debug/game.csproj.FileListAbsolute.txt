@@ -1,0 +1,13 @@
+D:\Visual Studio\Programs\game\game\bin\Debug\game.exe.config
+D:\Visual Studio\Programs\game\game\bin\Debug\game.exe
+D:\Visual Studio\Programs\game\game\bin\Debug\game.pdb
+D:\Visual Studio\Programs\game\game\obj\Debug\game.csproj.AssemblyReference.cache
+D:\Visual Studio\Programs\game\game\obj\Debug\game.DevilTrolls.resources
+D:\Visual Studio\Programs\game\game\obj\Debug\game.Properties.Resources.resources
+D:\Visual Studio\Programs\game\game\obj\Debug\game.csproj.GenerateResource.cache
+D:\Visual Studio\Programs\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Programs\game\game\obj\Debug\game.exe
+D:\Visual Studio\Programs\game\game\obj\Debug\game.pdb
+D:\Visual Studio\Programs\game\game\obj\Debug\login.Form1.resources
+D:\Visual Studio\Programs\game\game\obj\Debug\login.Form2.resources
+D:\Visual Studio\Programs\game\game\obj\Debug\login.Form3.resources
