@@ -17,8 +17,6 @@
 2. Open the `.sln` file in Visual Studio
 3. Build and run the project
 
-## 📸 Screenshots
-
 
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
